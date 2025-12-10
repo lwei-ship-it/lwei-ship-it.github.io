@@ -2,96 +2,91 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Li Wei
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th March 2001
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Artificial Intelligence
+      institution: Huazhong University of Science and Technology, Wuhan, China
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Focused on AI Agents, Reinforcement Learning, and Natural Language Processing
+        - Expected Graduation - 2025
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Investigating Multi-Agent Systems for Autonomous Vehicles
+            - Reinforcement Learning Algorithms for AI Agents
+    - title: Bachelor of Science in Computer Science
+      institution: Huazhong University of Science and Technology, Wuhan, China
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - GPA - 3.9/4.0
+        - National Scholarship (2022)
+        - title: Thesis
+          contents:
+            - Reinforcement Learning for Multi-Agent Systems
+            - Research on Task Scheduling for AI Agents
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant, AI Agent Lab
+      institution: Huazhong University of Science and Technology, Wuhan, China
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed intelligent agents using reinforcement learning.
+        - Published four first-author papers in top-tier AI conferences (NeurIPS, ACL, ICLR).
+    - title: Research Intern, AI Lab
+      institution: Tencent AI Lab, Shenzhen, China
+      year: Jun - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed NLP models for customer service agents.
+        - Optimized chatbot systems using AI algorithms.
+    - title: Teaching Assistant, Department of Computer Science
+      institution: Huazhong University of Science and Technology, Wuhan, China
+      year: 2021 - 2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Assisted in teaching undergraduate courses on Machine Learning and Data Structures.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/liwei-ai/AI-Agents">AI-Agent-Systems</a>
+      year: 2023 - now
+      description: An open-source project focused on developing AI agent systems using reinforcement learning algorithms.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - National Scholarship
+    - year: 2023
       items:
-        - Max Planck Medal
+        - First Prize, National AI Innovation Contest
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence Agents
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Multi-Agent Systems
+        - Autonomous Decision Making
+    - title: Reinforcement Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Deep Q-Learning
+        - Multi-Agent Reinforcement Learning
+    - title: Natural Language Processing
+      items:
+        - Sentiment Analysis
+        - Text Classification
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading AI research papers, Participating in coding competitions, Exploring emerging AI technologies

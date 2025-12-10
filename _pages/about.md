@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Huazhong University of Science and Technology </p>
+    <p>Wuha, Hubei, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am Li Wei, currently a Master's student in Artificial Intelligence at Huazhong University of Science and Technology (HUST), where I focus on developing intelligent agents with applications in reinforcement learning, natural language processing (NLP), and autonomous systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic journey, I have been passionate about the intersection of AI and real-world applications, particularly in designing AI systems that can autonomously interact with their environment and make intelligent decisions. My research primarily revolves around AI agents in multi-agent systems, reinforcement learning, and optimizing natural language understanding for conversational AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am fortunate to have published four first-author papers in prominent AI conferences, including NeurIPS, ACL, and ICLR, covering topics such as multi-agent reinforcement learning, task scheduling in AI agents, and advancements in NLP for AI agents. These publications reflect my dedication to exploring novel approaches and contributing to the development of smarter and more capable AI systems.
+
+In addition to my academic work, I have interned at Tencent AI Lab, where I gained hands-on experience in applying AI in real-world scenarios, particularly for automated customer service and conversational agents.
+
+I have always believed in the power of AI to transform industries, and my goal is to continue pushing the boundaries of what AI agents can achieve. In my free time, I enjoy exploring cutting-edge research in AI, contributing to open-source projects, and collaborating with like-minded individuals to solve complex problems.
+
+Feel free to reach out to me if you'd like to discuss AI research, share ideas, or just talk about the exciting potential of AI technology!
